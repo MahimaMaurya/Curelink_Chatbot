@@ -1,1 +1,1 @@
-# Curelink_Chatbot
+# Curelink_Chatbot for Meal Picture Queries
