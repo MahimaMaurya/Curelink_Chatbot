@@ -1,1 +1,2 @@
-# Curelink_Chatbot for Meal Picture Queries
+# Chatbot for Meal Picture Queries
+## Project Description
