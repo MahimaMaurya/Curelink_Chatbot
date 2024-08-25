@@ -6,14 +6,14 @@ The core functionality of the project is to generate accurate and context-aware 
 ## Performance of the Model
 1. Generated_Response = Ideal_Response
 <img width="1063" alt="Screenshot 2024-08-25 at 12 51 06" src="https://github.com/user-attachments/assets/13e4fe0d-10c7-4787-8072-05297d13a35f">
-Above pictures implies that our model perfectly aligned with the expected ideal_response.
+Here our model perfectly aligned with the expected ideal_response.
 
 2. Ideal_response doesn't match with user_query
-
 <img width="1067" alt="Screenshot 2024-08-25 at 12 45 04" src="https://github.com/user-attachments/assets/95cef345-ab2a-4d2d-a369-5651fd20719e">
    
 3. Generated_Response > Ideal_Response
 <img width="1007" alt="Screenshot 2024-08-25 at 12 51 59" src="https://github.com/user-attachments/assets/a96a09f0-799e-41af-8c86-edc6c432493d">
+Here our model is generating way better response in comparison to Ideal_Response
 
 ## Scenario when model underperformed
 1. When user send the image at wrong time and tells the timing in caption
