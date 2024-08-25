@@ -4,7 +4,7 @@
 
 This project involves developing a Python program designed to automatically respond to patient queries regarding meal pictures sent via WhatsApp. The core functionality of the system includes:
 
-- Image Analysis: Utilizing the Large Language Model gemini-1.5-flash to analyze meal images.
+- Image Analysis: Utilizing the Large Language Model **gemini-1.5-flash** to analyze meal images.
 - Diet Comparison: Comparing images against prescribed diet charts.
 - Contextual Advice: Generating actionable advice based on the patient's medical profile and chat history.
 
